@@ -1,0 +1,3 @@
+A potential issue in the snippet.go script is the incorrect data type used for the result variable in the factorial function. It is declared as an int, but assigned a value of 1.00, which is a floating-point number. This can lead to unexpected behavior or errors during compilation.
+
+In order address this issue, we need to change the data type of result to int to match the return type of the factorial function, which is also int. 
