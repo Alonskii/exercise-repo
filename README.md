@@ -1,10 +1,10 @@
 This is a description of the different accessment questions.  
 
-Question_One demonstrates how to swap the values of two integers in Go.
+QUESTION_ONE: Demonstrates how to swap the values of two integers in Go.
 
 How to Use
 Ensure you have Go installed on your machine.
-Clone or download the script.
+Clone or download the script/s.
 Open a terminal and navigate to the directory containing the script.
 Run the script using the go run command: 
 
